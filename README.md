@@ -11,7 +11,7 @@ I found that All the 4 areas - Economic participation and opportunity, Education
 These results help us identify the areas we need to work on to reduce gender gap at the World as well as US level. Also it discovers relationships between indicatiors
 ## Data selected for analysis: 
 
-I am planning to use the World Development Indicators(WDI) dataset. I am planning to use this because it has a wide variety of indicators that I can compare to access the stage of males vs females. I can easily apply filters and change the country that I am interested in.
+I used the World Development Indicators(WDI) dataset. I used this dataset because it has a wide variety of indicators that I can be compared, to access the stage of males vs females. I easily applied filters and changed the country that I am interested in.
 
 WDI has various indicators related to health, education, economy and politics for various countries of the world from 1960 onwards.
 
