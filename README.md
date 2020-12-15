@@ -1,6 +1,5 @@
 
-# Project
-## Gender Gap Analysis using WDI Data
+# Gender Gap Analysis using WDI Data
 Ankita Pal
 
 ## Abstract: 
