@@ -71,8 +71,8 @@ Link [WDI dataset](https://datacatalog.worldbank.org/dataset/world-development-i
 	│	├── Correlogram.png
 	│	├── Life Expectancy.png
 	│	├── Literacy rate ratio.png
-	│	├── Participation_Gap_US.png
-	│	├── Participation_Gap_world.png
+	│	├── Participation Gap (US).png
+	│	├── Participation Gap (World).png
 	│	├── Proportion of seats held by women.png
 	│	├── School enrollment(US).png
 	│	├── School enrollment(world).png
