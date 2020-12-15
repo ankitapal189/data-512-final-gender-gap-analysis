@@ -60,10 +60,12 @@ WDI has various indicators related to health, education, economy and politics fo
 Link [WDI dataset](https://datacatalog.worldbank.org/dataset/world-development-indicators)
 
 ## Directory structure
-
-|-data
-|--WDIdata.csv
-
+.
+    ├── ...
+    ├── data                    
+    │   ├── WDIdata.csv              
+    │   └── ...                 # etc.
+    └── ...
 
 ## Liscence : 
 
