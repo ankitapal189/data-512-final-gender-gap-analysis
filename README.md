@@ -59,9 +59,7 @@ WDI has various indicators related to health, education, economy and politics fo
 
 Link [WDI dataset](https://datacatalog.worldbank.org/dataset/world-development-indicators)
 
-## Directory structure
-.
-    
+## Directory structure  
     ├── data                    
     │   ├── WDIdata.csv                         
     ├── images
@@ -81,6 +79,24 @@ Link [WDI dataset](https://datacatalog.worldbank.org/dataset/world-development-i
 	├── A7 Final Project Report.ipynb
 	├── LICENSE
 	└── README.md
+	
+## To obtain results
+
+This work can be easily reproduced. 
+
+Clone the repository using:
+
+`git clone https://github.com/ankitapal189/data-512-final-gender-gap-analysis.git`
+
+The repository has the following dependencies:
+
+* [Python 3.6.1](https://www.python.org/downloads/release/python-361/)
+* [Jupyter Notebook](https://jupyter.org/)
+* [Pandas](https://pandas.pydata.org/)
+* [Matplotlib](https://matplotlib.org/)
+* [Seaborn](https://seaborn.pydata.org/)
+
+All the code is present in A7 Final Project Report.ipynb and data is present in 'data' folder. Executing the cells of the python notebook sequentially will populate the graphs in the 'results' folder.
 
 ## Liscence : 
 
