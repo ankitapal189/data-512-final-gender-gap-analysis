@@ -63,9 +63,24 @@ Link [WDI dataset](https://datacatalog.worldbank.org/dataset/world-development-i
 .
     
     ├── data                    
-    │   ├── WDIdata.csv              
-    │                
-    └── ...
+    │   ├── WDIdata.csv                         
+    ├── images
+	│	├── globe crown.png
+	│	└── usa crown.png
+	├── results
+	│	├── Correlogram.png
+	│	├── Life Expectancy.png
+	│	├── Literacy rate ratio.png
+	│	├── Participation_Gap_US.png
+	│	├── Participation_Gap_world.png
+	│	├── Proportion of seats held by women.png
+	│	├── School enrollment(US).png
+	│	├── School enrollment(world).png
+	│	└── Sex ratio.png
+	├── A5 Final Project Proposal.ipynb
+	├── A7 Final Project Report.ipynb
+	├── LICENSE
+	└── README.md
 
 ## Liscence : 
 
