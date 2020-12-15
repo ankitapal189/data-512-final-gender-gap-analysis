@@ -87,3 +87,14 @@ Link [WDI dataset](https://datacatalog.worldbank.org/dataset/world-development-i
 Data: [CC-BY 4.0](https://datacatalog.worldbank.org/public-licenses#cc-by)
 
 MIT: [MIT](https://github.com/ankitapal189/data-512/blob/main/data-512-a1/LICENSE.md)<BR>
+
+## References
+[1] DeSilver, Drew. “A Record Number of Women Will Be Serving in the New Congress.” Pew Research Center, 18 Dec. 2018, www.pewresearch.org/fact-tank/2018/12/18/record-number-women-in-congress.
+
+[2] “How to Use Custom Png Image Marker with Plot?” Stack Overflow, 23 Feb. 2010, stackoverflow.com/questions/2318288/how-to-use-custom-png-image-marker-with-plot.
+
+[3] https://icons.iconarchive.com/icons/dtafalonso/modern-xp/48/ModernXP-73-Globe-icon.png
+
+[4] https://icon-library.com/images/crown-xxl.png
+
+[5] https://www.hiclipart.com/free-transparent-background-png-clipart-zjdjg
