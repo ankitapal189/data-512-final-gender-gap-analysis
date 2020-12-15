@@ -61,7 +61,7 @@ Link [WDI dataset](https://datacatalog.worldbank.org/dataset/world-development-i
 
 ## Directory structure
 .
-    ├── ...
+    
     ├── data                    
     │   ├── WDIdata.csv              
     │   └── ...                
