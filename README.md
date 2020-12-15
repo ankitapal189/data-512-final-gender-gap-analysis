@@ -80,7 +80,7 @@ Link [WDI dataset](https://datacatalog.worldbank.org/dataset/world-development-i
 	├── LICENSE
 	└── README.md
 	
-## To obtain results
+## To reproduce the results
 
 This work can be easily reproduced. 
 
