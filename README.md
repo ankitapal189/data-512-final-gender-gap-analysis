@@ -5,9 +5,7 @@ Ankita Pal
 
 ## Abstract: 
 
-Gender Gap is a topic that has been debated for several years. It is potentially very interesting to study the growth or reduction of gender gap over the years. The best way to quantify this is by exploring various areas like health, education, economy and politics. It would also be interesting to see if the world average of these parameters follows the same trends as that of US. This will be useful from a human-centered perspective because gender bias has been prevalent in our society since ages. This has given males an advantage over females over the years. But, as women are advancing in various fields, we see the gap diminishing. This project quantifies this decrease/increase in gap and the areas we need to concentrate on to remove this gap.
-
-I have identified 6 indicators related to the 4 major areas mentioned in the report for my analysis.
+Gender Gap is a topic that has been debated for several years. It is potentially very interesting to study the growth or reduction of gender gap over the years. The best way to quantify this is by exploring various areas like health, education, economy and politics. It would also be interesting to see if the world average of these parameters follows the same trends as that of US. This will be useful from a human-centered perspective because gender bias has been prevalent in our society since ages. This has given males an advantage over females over the years. But, as women are advancing in various fields, we see the gap diminishing. This project quantifies this decrease/increase in gap and the areas we need to concentrate on to remove this gap. I have identified 6 indicators related to the 4 major areas mentioned in the report for my analysis.
 
 I found that All the 4 areas - Economic participation and opportunity, Educational attainment, Health and survival, Political empowerment have shown a reduction in gender gap at World level. At US level Economic participation and opportunity shows an increase in gender gap whereas other areas show a decrease in Gender Gap. At the world level, all the indicators have a linear correlation with each other with the exception of Participation Gap which shows parabola-like relationship with all others.
 
@@ -46,6 +44,7 @@ The 3 analysis questions I looked into are:
 
  
 ## Methodology :
+
 I will use graphs to study the trend if gender graphs in the 4 areas. Graphs would be the best place to start our analysis. We could dive into the quantitive calculations if we find significant patterns. The indicators where data is present for male as well as female, we could create new indicator which would be a ratio of female to male. Analysing the trends of these ratios will also be useful. I will perform a correlation analysis of all vs all indicatiors. This will help us unearth any inter-dependencies.
 
 Once I have the conclusion for increase/decrease of gender gaps over the years at a world level, we perform the same analysis at the US level. 
@@ -59,6 +58,11 @@ I used the World Development Indicators(WDI) dataset. I used this dataset becaus
 WDI has various indicators related to health, education, economy and politics for various countries of the world from 1960 onwards.
 
 Link [WDI dataset](https://datacatalog.worldbank.org/dataset/world-development-indicators)
+
+## Directory structure
+
+|-data
+|--WDIdata.csv
 
 
 ## Liscence : 
