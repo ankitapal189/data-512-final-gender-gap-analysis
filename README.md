@@ -64,7 +64,7 @@ Link [WDI dataset](https://datacatalog.worldbank.org/dataset/world-development-i
 
 ## Directory structure  
 
-data-512-final-gender-gap-analysis
+
     ├── data                    
     │   └── WDIdata.csv                         
     ├── images
