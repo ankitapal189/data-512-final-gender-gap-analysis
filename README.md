@@ -63,6 +63,8 @@ WDI has various indicators related to health, education, economy and politics fo
 Link [WDI dataset](https://datacatalog.worldbank.org/dataset/world-development-indicators)
 
 ## Directory structure  
+
+data-512-final-gender-gap-analysis
     ├── data                    
     │   └── WDIdata.csv                         
     ├── images
@@ -101,13 +103,19 @@ The repository has the following dependencies:
 
 All the code is present in A7 Final Project Report.ipynb and data is present in 'data' folder. Executing the cells of the python notebook sequentially will populate the graphs in the 'results' folder.
 
-## Liscence : 
+
+## Conclusion
+
+All 4 areas - economic participation and opportunity, educational attainment, health and survival, political empowerment have shown a reduction in Gender Gap at the World level. At the US level Economic participation and opportunity shows an increase in the gender gap whereas other areas show a decrease in Gender Gap. At the world level, all the indicators have a linear correlation with each other except for Participation Gap which shows a parabola-like relationship with all others.
+
+## Liscence 
 
 Data: [CC-BY 4.0](https://datacatalog.worldbank.org/public-licenses#cc-by)
 
 MIT: [MIT](https://github.com/ankitapal189/data-512/blob/main/data-512-a1/LICENSE.md)<BR>
 
 ## References
+
 [1] DeSilver, Drew. “A Record Number of Women Will Be Serving in the New Congress.” Pew Research Center, 18 Dec. 2018, www.pewresearch.org/fact-tank/2018/12/18/record-number-women-in-congress.
 
 [2] “How to Use Custom Png Image Marker with Plot?” Stack Overflow, 23 Feb. 2010, stackoverflow.com/questions/2318288/how-to-use-custom-png-image-marker-with-plot
